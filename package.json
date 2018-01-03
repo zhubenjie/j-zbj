@@ -1,0 +1,17 @@
+{
+  "name": "j-zbj",
+  "version": "1.0.5",
+  "description": "small tool",
+  "main": "./lib/j.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lazy",
+    "tool",
+    "j",
+    "easy"
+  ],
+  "author": "zhubenjie.com",
+  "license": "MIT"
+}
