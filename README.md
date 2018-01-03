@@ -1,9 +1,10 @@
-##small tool
+## small tool
+
 ```linux
 	npm i j-zbj
 ```
 
-###example
+### example
 ```javascript
 const j=require('j-zbj');
 
